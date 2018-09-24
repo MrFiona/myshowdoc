@@ -172,7 +172,7 @@ showdoc开放文档编辑的API，供使用者更加方便地操作文档数据�
 
 ## 用python脚本更新文档
 
-![更新脚本界面](./images/gui.PNG) 更新脚本界面
+![更新脚本界面](./images/gui.PNG)
 
 ### 环境
 
