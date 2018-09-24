@@ -6,9 +6,6 @@
 # Software: PyCharm
 
 
-# coding: utf-8
-# @author: hongxin
-# @date: 9/14/18
 
 """
 上传markdown文件到showdoc的小工具
